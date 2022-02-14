@@ -1,0 +1,12 @@
+body {
+    background-color: blanchedalmond
+}
+
+.inp_txt {
+    width: 3%;
+}
+
+#p_answer{
+    padding-top: 2px;
+    color: crimson;
+}
